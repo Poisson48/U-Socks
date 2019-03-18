@@ -12,5 +12,6 @@ The goal is to create another useless IOT system, but open-source, hackable and 
 
 All the schematics are created in EasyEda, if you want to use Kicad you need to create a lot of packages, sorry.
 
+Join the discord server !! https://discord.gg/ft3uVgr
 
-If you want to contact me : leohaize-etancelin@protonmail.com
+If you want to contact me directly : leohaize-etancelin@protonmail.com
