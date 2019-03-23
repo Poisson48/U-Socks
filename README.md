@@ -25,9 +25,9 @@ If you want to contact me directly : leohaize-etancelin@protonmail.com
 FRANCAIS
 --------------------------------------------------
 
-U-Socks est un système de chaussettes connecté open-source, il utilise un esp32 comme cerveau, la technonogie Bluetooth Low Energy et une  batterie au lithium pour l'alimentation.
+U-Socks est un système de chaussettes connecté open-source, il utilise un esp32 comme cerveau, la technonogie Bluetooth Low Energy pour la connection et une  batterie au lithium pour l'alimentation.
 
-Les U-Socks comporte de nombreux capteurs : 
+Les U-Socks comportent de nombreux capteurs : 
 - capteur d'humidité (maintenant vous pouvez connaître l'humidité de vos pieds !)
 - capteur de température (c'est évidemment un composant nécessaire)
 - podomètre (c'est un accéléromètre donc vous pouvez l'utiliser pour n'importe quoi d'autre comme capteur de vitesse)
@@ -38,7 +38,7 @@ Avec le capteur de température et d'humidité, vous pouvez calculer le point de
 Le projet est encore au stade de développement, donc si vous voulez m'aider, vous êtes les bienvenus.
 Le but est de créer un autre système IOT inutile, mais open-source, hackable et amusant. En gros, vous avez une station météo complète avec un accéléromètre sous vos pieds.
 
-Tous les schémas sont créés dans EasyEda, si vous voulez utiliser Kicad vous devrez créer beaucoup de paquets, désolé.
+Tous les schémas sont créés dans EasyEda, si vous voulez utiliser Kicad vous devrez créer beaucoup de packages, désolé.
 
 Rejoignez le serveur discord ! ! https://discord.gg/ft3uVgr
 
