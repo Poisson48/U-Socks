@@ -15,6 +15,17 @@ With the temperature and the moisture sensor you can calculate the dewpoint of y
 This an early development stage so if you want to help me you're welcome.
 The goal is to create another useless IOT system, but open-source, hackable and funny. Basically you have a full weather station with accelerometer under you feet.
 
+
+DevKit Schematic and PCB(s) are out !! 
+
+Check in DevKit section !
+
+Pictures :
+
+
+![Image of U-Socks DevKit](https://github.com/Poisson48/U-Socks/blob/master/Dev%20Kit/Pictures/Photo%20View.png)
+
+
 All the schematics are created in EasyEda, if you want to use Kicad you need to create a lot of packages, sorry.
 
 Join the discord server !! https://discord.gg/ft3uVgr
@@ -37,6 +48,18 @@ Avec le capteur de température et d'humidité, vous pouvez calculer le point de
 
 Le projet est encore au stade de développement, donc si vous voulez m'aider, vous êtes les bienvenus.
 Le but est de créer un autre système IOT inutile, mais open-source, hackable et amusant. En gros, vous avez une station météo complète avec un accéléromètre sous vos pieds.
+
+
+Les Schemas et PCBs pour DevKit sont sortis !!
+
+Jettez un oeil dans la section DevKit !
+
+Images :
+
+
+![Image of U-Socks DevKit](https://github.com/Poisson48/U-Socks/blob/master/Dev%20Kit/Pictures/Photo%20View.png)
+
+
 
 Tous les schémas sont créés dans EasyEda, si vous voulez utiliser Kicad vous devrez créer beaucoup de packages, désolé.
 
