@@ -25,6 +25,11 @@ Pictures :
 
 ![Image of U-Socks DevKit](https://github.com/Poisson48/U-Socks/blob/master/Dev%20Kit/Pictures/Photo%20View.png)
 
+Bottom :
+
+![Image of U-Socks DevKit](https://github.com/Poisson48/U-Socks/blob/master/Dev%20Kit/Pictures/Photo%20View%20bottom.png)
+
+
 
 All the schematics are created in EasyEda, if you want to use Kicad you need to create a lot of packages, sorry.
 
@@ -58,6 +63,11 @@ Images :
 
 
 ![Image of U-Socks DevKit](https://github.com/Poisson48/U-Socks/blob/master/Dev%20Kit/Pictures/Photo%20View.png)
+
+
+Derrière :
+
+![Image of U-Socks DevKit](https://github.com/Poisson48/U-Socks/blob/master/Dev%20Kit/Pictures/Photo%20View%20bottom.png)
 
 
 
