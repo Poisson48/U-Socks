@@ -16,7 +16,7 @@ This an early development stage so if you want to help me you're welcome.
 The goal is to create another useless IOT system, but open-source, hackable and funny. Basically you have a full weather station with accelerometer under you feet.
 
 
-DevKit Schematic and PCB(s) are out !! 
+DevKit 2.0 Schematic and PCB(s) are out !! 
 
 Check in DevKit section !
 
@@ -55,7 +55,7 @@ Le projet est encore au stade de développement, donc si vous voulez m'aider, vo
 Le but est de créer un autre système IOT inutile, mais open-source, hackable et amusant. En gros, vous avez une station météo complète avec un accéléromètre sous vos pieds.
 
 
-Les Schemas et PCBs pour DevKit sont sortis !!
+Les Schemas et PCBs pour DevKit 2.0 sont sortis !!
 
 Jettez un oeil dans la section DevKit !
 
