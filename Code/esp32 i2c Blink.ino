@@ -15,15 +15,37 @@
 #include <Wire.h>
 #include "DFRobot_SHT20.h"
 
+#define BLYNK_PRINT Serial
+
+
+#include <WiFi.h>
+#include <WiFiClient.h>
+#include <BlynkSimpleEsp32.h>
+
+// You should get Auth Token in the Blynk App.
+// Go to the Project Settings (nut icon).
+char auth[] = "b6AVUeDglh7Ualx527BbZo5f6TVNbq8J";
+
+// Your WiFi credentials.
+// Set password to "" for open networks.
+char ssid[] = "🦐";
+char pass[] = "1524xlh1524xlh";
+
+// This function will be called every time Slider Widget
+// in Blynk app writes values to the Virtual Pin V1
+
+
+
 DFRobot_SHT20    sht20;
 
 void setup()
 {
-    Serial.begin(9600);
+    Serial.begin(115200);
     Serial.println("SHT20 Example!");
     sht20.initSHT20();                                  // Init SHT20 Sensor
     delay(100);
     sht20.checkSHT20();                                 // Check SHT20 Sensor
+    Blynk.begin(auth, ssid, pass);
 }
 
 void loop()
@@ -39,5 +61,8 @@ void loop()
     Serial.print(humd, 1);
     Serial.print("%");
     Serial.println();
-    delay(1000);
+    delay(100);
+    Blynk.virtualWrite(V0, temp);
+    Blynk.virtualWrite(V1, humd);
+    Blynk.run();
 }
